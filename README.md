@@ -13,4 +13,4 @@ Existing shape estimation methods for deformable object manipulation suffer from
 ## Results
 
 ------
-[overview]:https://github.com/LifeIsFantastic/DeformShapeEst/img/overview.pdf
+[overview]:https://github.com/LifeIsFantastic/DeformShapeEst/img/overview.png
