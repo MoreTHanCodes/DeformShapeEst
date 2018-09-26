@@ -18,17 +18,7 @@ Existing shape estimation methods for deformable object manipulation suffer from
 </p>
 
 
-## Results
-
-### Robustness to Noise
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IIMSPutWoto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### Robustness to Occlusion
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nMKR7jPg6Oo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RiI5hOdgblw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### Comparison with Single-frame Method for Feature Tracking
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XckgE5wMhI8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## Video Results
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBv_3H12zLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ------
