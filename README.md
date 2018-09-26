@@ -19,6 +19,6 @@ Existing shape estimation methods for deformable object manipulation suffer from
 
 
 ## Video Results
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OBv_3H12zLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GLRqE77U9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ------
