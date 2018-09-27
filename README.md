@@ -16,9 +16,14 @@ Existing shape estimation methods for deformable object manipulation suffer from
     <img src="img/overview.png" width="640" />
     <em>Figure 1. Overview of our shape estimation pipeline for deformable object manipulation.</em>
 </p>
+------
 
+## Technical Paper
+<p align="center">
+    <b><a href="https://arxiv.org/abs/1809.09802">Available on arXiv</a></b>
+</p>
+------
 
 ## Video Results
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GLRqE77U9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+[![Available on YouTube](https://img.youtube.com/vi/8GLRqE77U9s/0.jpg)](http://www.youtube.com/watch?v=8GLRqE77U9s)
 ------
