@@ -14,7 +14,8 @@ Existing shape estimation methods for deformable object manipulation suffer from
 
 <p align="center">
     <img src="img/overview.png" width="640" />
-    <em>Figure 1. Overview of our shape estimation pipeline for deformable object manipulation.</em>
+</p><p align="center">
+    <i>Figure 1. Overview of our shape estimation pipeline for deformable object manipulation.</i>
 </p>
 
 ## Technical Paper
@@ -28,4 +29,3 @@ Existing shape estimation methods for deformable object manipulation suffer from
     <img src="https://img.youtube.com/vi/8GLRqE77U9s/0.jpg" alt="Available on YouTube" />
     </a>
 </p>
-------
